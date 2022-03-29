@@ -5,4 +5,6 @@ We carried out a systematic evaluation of target selectivity profiles across thr
 
 https://pubmed.ncbi.nlm.nih.gov/24521231/ 
 
-**Data file download:** https://www2.helsinki.fi/en/researchgroups/network-pharmacology-for-precision-medicine/software#section-106744
+**Data file download:** 
+https://www2.helsinki.fi/en/researchgroups/network-pharmacology-for-precision-medicine/software#section-106744
+https://zenodo.org/record/5105698#.YkLESShBxaQ
