@@ -4,3 +4,5 @@ We carried out a systematic evaluation of target selectivity profiles across thr
 **Citation:** Making sense of large-scale kinase inhibitor bioactivity data sets: a comparative and integrative analysis.  J Chem Inf Model. 2014 Mar 24;54(3):735-43. doi: 10.1021/ci400709d.
 
 https://pubmed.ncbi.nlm.nih.gov/24521231/ 
+
+**Data file download:** https://www2.helsinki.fi/en/researchgroups/network-pharmacology-for-precision-medicine/software#section-106744
